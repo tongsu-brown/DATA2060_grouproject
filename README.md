@@ -1,6 +1,6 @@
 # Gaussian Naive Bayes Classifier (From Scratch)
 
-> Course project – Fall 2025  
+> DATA 2060 Course project – Fall 2025  
 > GitHub repository: https://github.com/tongsu-brown/DATA2060_grouproject.git
 
 ## Overview
