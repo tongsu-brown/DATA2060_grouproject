@@ -1,0 +1,13 @@
+name: data2060test
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.11
+  - numpy=2.3.2
+  - matplotlib=3.10.5
+  - pandas=2.3.2
+  - scikit-learn=1.7.1
+  - pytest=8.4.1
+  - pip
+  - pip:
+      - torch==2.7.1
