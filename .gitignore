@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.jupyter/
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# (Optional) Ignore data if it is large or private; keep data/README.md
+# data/*
+# !data/README.md
